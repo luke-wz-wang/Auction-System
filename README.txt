@@ -6,7 +6,7 @@
 
 ## EIP Patterns & Design Patterns
 
-EIP Patterns:
+- EIP Patterns:
 
 1. Publish-Subscribe Channel: players can subscribe to the auction market and receive information of items for sale each week
 
@@ -22,7 +22,7 @@ EIP Patterns:
 
 -----------------------------------------------------------------------------------------
 
-Design Patterns:
+- Design Patterns:
 
 1. Singleton: the auction market will be a singleton; players cannot sell the same item on multiple auction markets;
 
